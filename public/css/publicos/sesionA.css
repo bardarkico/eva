@@ -1,0 +1,209 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.grisClaro{
+  color:#eceff1;
+}
+.grisObscuro{
+  color: #263238;
+}
+.tamTitulo{
+  font-size: 2.5em;
+}
+.tamCita{
+  font-size: 0.8125em;
+}
+.texto3D{
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+.texto3d{
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+}
+.textoAzul{
+  color:#428bca;
+}
+.blanco{
+  color: #fff;
+}
+
+.enlaceSimple:hover{
+  text-decoration: none;
+  color: #428bca;
+}
+.enlaceSimple:active{
+  text-decoration: none;
+  color: #428bca;
+}
+.enlaceSimple:link{
+  text-decoration: none;
+}
+
+.sangria{
+  text-indent: 5%;
+}
+.formatoTexto{
+  font-size: 1.0625em;
+}
+.formatoTexto2{
+  font-size: 1em; /*16*/
+}
+.formatoTexto3{
+  font-size: 1.125em; /*18*/
+}
+.formatoTexto4{
+  font-size: 1.25em; /*18*/
+}
+.formatoTexto14{
+  font-size: 0.875em;
+}
+
+.transparenteClaroTxt {
+  background-color: rgba(236, 239, 241, 0.8);
+  border-top: #eceff1;
+  border-left: #eceff1;
+  border-bottom: #eceff1;
+  color:#263238;
+}
+.trasparenteClaroPlus{
+  background-color: rgba(236, 239, 241, 0.6);
+  border-top: #eceff1;
+  border-left: #eceff1;
+  border-bottom: #eceff1;
+}
+#contenidoUsuario{
+  background: url(../../img/cuentas/491207279L.jpg) no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.lateral{
+  float: right;
+}
+#piePrincipal{
+  clear: both;
+  padding: 0 0 0 0;
+}
+
+.paddingMenu{
+  padding:4% 2.8% 4% 2.8%;
+}
+
+.activoLiMenu{
+  color: #eceff1;
+  background-color: #428bca;
+  outline: 0;
+}
+.activoBorde{
+  color: #eceff1;
+  background-color: #428bca;
+  outline: 0;
+  border-bottom: 1px solid #37474f;
+  border-top: 1px solid #37474f;
+}
+.activoLi{
+  background-color: #37474f;
+  outline: 0;
+}
+.tablaAdm{
+  color: #eceff1;
+  background-color: #00695c;
+  outline: 0;
+}
+
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+@media(min-width:900px) {
+    .navbar {
+        padding: 9px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+     .top-nav-collapse {
+        padding: 0;
+    }
+}
+#barraNav{
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+.navbar-default {
+  border-color: transparent;
+  background-color: #263238;
+}
+.navbar-default .nav li a {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 200;
+  letter-spacing: 1px;
+  color: #fff;
+}
+.dropdown-menu{
+  background-color: #37474f;
+}
+.colorNav{
+  background-color: #37474f;
+}
+.colorNav li a:hover,
+.colorNav li a:active,
+.colorNav li a:focus{
+  background-color: #428bca;
+  color: #eceff1;
+}
+.navbar-default .nav li a:hover,
+.navbar-default .nav li a:active,
+.navbar-default .nav li a:focus {
+  outline: 0;
+  color: #428bca;
+}
+
+.nav-tabs>li>a {
+  background-color: #263238;
+  border-color: #90a4ae;
+  color:#fff;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+  color: #eceff1;
+/*  background-color: #455a64;*/
+  background-color: #428bca;
+  border: 1px solid #888888;
+}
+.nav-tabs>li>a:hover {
+  border-color: #fff;
+  background-color: #428bca;
+  color: #fff;
+}
+
+.imgI{
+  width: 50%;
+  height: 50%;
+}
+.ambar{
+  background:#ffc107;
+}
+.rojo{
+  background:#e57373;
+}
+.contFecha{
+  font-size: 1.5em;
+}
+.botonActivo{
+  background: #5cb85c;
+  color: #fff;
+}
+.botonNoactivo{
+  background: #337ab7;
+  color: #fff;
+}

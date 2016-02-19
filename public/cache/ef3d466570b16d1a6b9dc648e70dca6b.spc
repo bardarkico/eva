@@ -1,0 +1,33 @@
+a:4:{s:5:"child";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:3:"RDF";a:1:{i:0;a:6:{s:4:"data";s:9:"
+   
+   
+";s:7:"attribs";a:1:{s:42:"http://www.w3c.org/2001/XMLSchema-instance";a:1:{s:14:"schemaLocation";s:51:"http://www.w3c.org/1999/02/22-rdf-syntax-ns#rdf.xsd";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:24:"http://purl.org/rss/1.0/";a:2:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:39:"
+      
+      
+      
+      
+      
+   ";s:7:"attribs";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:5:"about";s:58:"http://www.banxico.org.mx/rsscb/rss?canal=tipCam&idioma=es";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:24:"http://purl.org/rss/1.0/";a:4:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"Banco de México, Tipo de cambio en dólares de los EE.UU.A. (FIX)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:77:"http://www.banxico.org.mx/PortalesEspecializados/tiposCambio/TiposCambio.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:120:"Tipo de cambio para solventar obligaciones denominadas en dólares de los EE.UU.A., pagaderas en la República Mexicana.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"items";a:1:{i:0;a:6:{s:4:"data";s:17:"
+         
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:3:"Seq";a:1:{i:0;a:6:{s:4:"data";s:23:"
+            
+         ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:2:"li";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:8:"resource";s:70:"http://www.banxico.org.mx/portal-mercado-cambiario/index.html/20150904";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"es";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:4:"item";a:1:{i:0;a:6:{s:4:"data";s:67:"
+      
+      
+      
+      
+      
+      
+      
+      
+      
+   ";s:7:"attribs";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:5:"about";s:70:"http://www.banxico.org.mx/portal-mercado-cambiario/index.html/20150904";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:24:"http://purl.org/rss/1.0/";a:3:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"MX: 16.8454 MXN = 1 USD 2015-09-04 BM FIX";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:65:"http://www.banxico.org.mx/portal-mercado-cambiario/index.html#FIX";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:237:"Este tipo de cambio es determinado por el Banco de México los días hábiles bancarios con base en un promedio de las cotizaciones del mercado de cambios al mayoreo para operaciones liquidables el segundo día hábil bancario siguiente.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:4:{s:4:"date";a:1:{i:0;a:5:{s:4:"data";s:25:"2015-09-04T12:00:42-05:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:2:"es";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"format";a:1:{i:0;a:5:{s:4:"data";s:9:"text/html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Banco de México";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:34:"http://staging.bis.org/rss-cb/1.0/";a:2:{s:11:"simpletitle";a:1:{i:0;a:5:{s:4:"data";s:3:"FIX";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:6:{s:4:"data";s:37:"
+         
+         
+         
+      ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:34:"http://staging.bis.org/rss-cb/1.0/";a:3:{s:7:"country";a:1:{i:0;a:5:{s:4:"data";s:2:"MX";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:17:"institutionAbbrev";a:1:{i:0;a:5:{s:4:"data";s:2:"BM";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:12:"exchangeRate";a:1:{i:0;a:6:{s:4:"data";s:62:"
+            
+            
+            
+            
+         ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:34:"http://staging.bis.org/rss-cb/1.0/";a:4:{s:5:"value";a:1:{i:0;a:5:{s:4:"data";s:7:"16.8454";s:7:"attribs";a:1:{s:0:"";a:2:{s:9:"frequency";s:14:"daily business";s:8:"decimals";s:1:"4";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:12:"baseCurrency";a:1:{i:0;a:5:{s:4:"data";s:3:"USD";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:14:"targetCurrency";a:1:{i:0;a:5:{s:4:"data";s:3:"MXN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"rateName";a:1:{i:0;a:5:{s:4:"data";s:3:"FIX";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}}}}}s:4:"type";i:64;s:7:"headers";a:6:{s:12:"x-powered-by";s:97:"Servlet/3.0 JSP/2.2 (GlassFish Server Open Source Edition 3.1.2.2 Java/Sun Microsystems Inc./1.6)";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:4:"2248";s:4:"date";s:29:"Sun, 06 Sep 2015 18:51:00 GMT";s:10:"connection";s:5:"close";s:10:"set-cookie";s:136:"TS014a759c=0189f484af49773d7b5ca73532119e7fcac9482db5161c9f4d51931882ba2b5951089e3693; Path=/, ORF_wwwBanx=2505459370.20480.0000; path=/";}s:5:"build";s:14:"20140428125039";}

@@ -1,0 +1,9 @@
+bootstrap/*
+vendor/*
+artisan
+composer.json
+composer.lock
+CONTRIBUING.md
+phpunit.xml
+server.php
+
